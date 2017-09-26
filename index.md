@@ -3,4 +3,4 @@ first repository
 # dskfd
 sfdsfddsfdsfddsfdsfdd
 sfdsfddsfdsfdd
-sfdsfddsfdsfdd[a](abc.md)
+sfdsfddsfdsfdd[a](abc)
